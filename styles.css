@@ -14,3 +14,18 @@
       a {
         color: #ECDED9;
       }
+
+.campo-numero {
+  width: 150px;
+    font-size: 150px;
+    height: 150px;
+}
+
+.botao-resultado {
+  display: inline-flex;
+  width: 150px;
+  height: 150px;
+  font-size: 150px;
+  align-items: center;
+  justify-content: center;
+}
